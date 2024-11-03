@@ -1,5 +1,7 @@
+/* eslint-disable @typescript-eslint/no-empty-object-type */
+/* eslint-disable @typescript-eslint/ban-ts-comment */
 import * as React from "react"
-
+//@ts-ignore
 import { cn } from "@/lib/utils"
 
 export interface InputProps
