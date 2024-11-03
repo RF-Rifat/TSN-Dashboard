@@ -18,8 +18,8 @@ export function Header({ children }: { children?: React.ReactNode }) {
       </div>
       <div className="flex items-center gap-4">
         <Button variant="ghost" size="icon" className="relative">
-          <Bell className="h-5 w-5" />
-          <span className="absolute top-0 right-0 h-2 w-2 bg-red-500 rounded-full" />
+          <Bell className="!size-6" />
+          <span className="absolute top-1 right-1 h-2 w-2 bg-red-500 rounded-full" />
         </Button>
         <Button className="bg-emerald-500 hover:bg-emerald-600">
           <Plus className="h-4 w-4 mr-2" />
