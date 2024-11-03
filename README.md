@@ -1,4 +1,3 @@
-````markdown
 # React Vite Dashboard UI
 
 This repository contains a modern dashboard UI built with **React** and **Vite**. It’s designed to be fast, easy to customize, and suitable for a variety of web applications.
@@ -21,10 +20,10 @@ Make sure you have the following tools installed:
    Start by cloning this repository to your local machine:
 
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/RF-Rifat/TSN-Dashboard.git
+   cd dashboard-ui
    ```
-````
+
 
 2. **Install Dependencies**
 
@@ -101,10 +100,5 @@ Feel free to modify the components in the `src` folder to customize the dashboar
 
 If you run into any issues or have questions, please feel free to contact me : [Portfolio:](https://rifadul-islam.vercel.app/)
 
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve the project, please fork the repository and create a pull request.
-
----
 
 Happy coding! 😊
