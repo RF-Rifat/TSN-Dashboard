@@ -98,7 +98,7 @@ Feel free to modify the components in the `src` folder to customize the dashboar
 
 ## 📞 Need Help?
 
-If you run into any issues or have questions, please feel free to contact me : [Portfolio:](https://rifadul-islam.vercel.app/)
+If you run into any issues or have questions, please feel free to contact me : [Portfolio](https://rifadul-islam.vercel.app/)
 
 
 Happy coding! 😊
